@@ -1,3 +1,1 @@
-<h1>Hi, I'm Myles! </h1>
-
-<p>Welcome to my Repo 😄</p>
+<h1>Welcome to my Repo 😄</h1>
